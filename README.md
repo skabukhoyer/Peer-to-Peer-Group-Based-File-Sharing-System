@@ -121,4 +121,6 @@ stop_share <group_id> <file_name>
 2. The peer can login from different IP addresses, but the details of his downloads/uploads will not be persistent across sessions.
       
 3. File paths should be absolute.
+4. SHA1 checking is not working well, it is disabled as of now
+5. stop_share has some internel issue
 
